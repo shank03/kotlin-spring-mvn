@@ -1,7 +1,7 @@
 ---
-title: Kotlin Spring Boot (Maven)
-description: A basic Kotlin Spring boot web server with PostgreSQL
-tags:
+Title: Kotlin Spring Boot (Maven)
+Description: A basic Kotlin Spring boot web server with PostgreSQL
+Tags:
 - spring
 - kotlin
 - web-flux
